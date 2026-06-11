@@ -65,6 +65,20 @@
       "description": "Build a REST API with FastAPI using CRUD operations and validation.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-06-18"
+    },
+    {
+      "id": "intro-classification",
+      "title": "Intro to Classification with scikit-learn",
+      "description": "Train and evaluate a simple classifier on the Iris dataset.",
+      "path": "assignments/intro-classification",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
